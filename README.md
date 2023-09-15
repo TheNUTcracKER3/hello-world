@@ -8,8 +8,9 @@ There's enoug`h for everyones`'need but not for everyones' greed.
 
 
 
+the background color is `#ffffff` for light mode and `#000000` for dark mode
 
 
 i am trying to insert a lin now [here](www.google.com)
 
-!(my first image that i have copied from the repository tutorial website)[https://myoctocat.com/assets/images/base-octocat.svg]
+![myfirstimageentereintogithub](https://myoctocat.com/assets/images/base-octocat.svg)
